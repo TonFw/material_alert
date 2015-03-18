@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    material_alert (0.1.0)
+    material_alert (0.0.1)
 
 GEM
   remote: https://rubygems.org/
