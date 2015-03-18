@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    material_alert (0.0.4)
+    material_alert (0.0.5)
       railties (> 3.1, < 5.0)
 
 GEM
